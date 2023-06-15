@@ -27,7 +27,7 @@ If you encounter any behavior that violates this Code of Conduct or have any con
 Unacceptable behavior will not be tolerated within this project's community. The project maintainers reserve the right to take appropriate actions, including warning, moderation, or temporary/permanent banning, against individuals who engage in behavior that violates this Code of Conduct.
 
 ## Conclusion
-
+ 
 By participating in this project, you agree to adhere to this Code of Conduct. We are committed to providing an inclusive and respectful environment where everyone can collaborate and learn together. Let's foster a positive and supportive community within the GitHub Achievements repository.
 
 This Code of Conduct is adapted from the Contributor Covenant, version 2.0. For more details, please visit [https://www.contributor-covenant.org/version/2/0/code_of_conduct.html](https://www.contributor-covenant.org/version/2/0/code_of_conduct.html).
