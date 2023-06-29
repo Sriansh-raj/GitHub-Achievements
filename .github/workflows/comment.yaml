@@ -1,5 +1,6 @@
 name: Create a comment on new issues
-
+permissions:
+  contents: write
 on:
   issues:
     types: [opened]
