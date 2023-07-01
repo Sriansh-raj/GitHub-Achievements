@@ -29,9 +29,9 @@ jobs:
         run: |
           gh api -X POST \
             https://api.github.com/repos/${ORGANIZATION}/${REPOSITORY}/issues/${ISSUE_NUMBER}/comments \
-            -f body='
-            Brooo you are creating an issue in here
-            '
+            -f body="
+            Brooo you're creating an issue in here
+            "
         env:
           GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
           ORGANIZATION: ${{ github.event.repository.owner.login }}
