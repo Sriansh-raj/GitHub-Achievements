@@ -18,7 +18,7 @@ jobs:
           issue-number: ${{ github.event.issue.number }}
           body: |
             Just kidding :laughing: will get back to you
-          reactions: 'smile'
+          reactions: 'laugh'
           
   comment-with-api:
     runs-on: ubuntu-latest
@@ -30,7 +30,7 @@ jobs:
           gh api -X POST \
             https://api.github.com/repos/${ORGANIZATION}/${REPOSITORY}/issues/${ISSUE_NUMBER}/comments \
             -f body="
-            Brooo you're creating an issue in here
+            Brooo! you're creating an issue in here 😒
             "
         env:
           GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
