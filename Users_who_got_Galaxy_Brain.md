@@ -3,6 +3,7 @@
 
 ### 12-07-2023
 - [Galaxy Brain](https://github.com/Mayar-Abuzahra?achievement=galaxy-brain&tab=achievements) by @Mayar-Abuzahra
+- [Galaxy Brain](https://github.com/code-alt?achievement=galaxy-brain&tab=achievements) by @code-alt
 
 ### 09-07-2023
 - [Galaxy Brain](https://github.com/kevoj?achievement=galaxy-brain&tab=achievements) by @kevoj
