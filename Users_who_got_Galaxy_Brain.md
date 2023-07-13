@@ -1,6 +1,9 @@
 # Users_who_got_Galaxy_Brain 🧠
 **It contains the list of users who got the `galaxy Brain` achievement through this repo's [discussion](https://github.com/Sriansh-raj/GitHub-Achievements/discussions/18).**
 
+### 13-07-2023
+- [Galaxy Brain](https://github.com/users/sage-etcher/achievements/galaxy-brain) by @sage-etcher
+
 ### 12-07-2023
 - [Galaxy Brain](https://github.com/Mayar-Abuzahra?achievement=galaxy-brain&tab=achievements) by @Mayar-Abuzahra
 - [Galaxy Brain](https://github.com/code-alt?achievement=galaxy-brain&tab=achievements) by @code-alt
