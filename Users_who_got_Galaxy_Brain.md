@@ -1,5 +1,9 @@
 # Users_who_got_Galaxy_Brain 🧠
 **It contains the list of users who got the `galaxy Brain` achievement through this repo's [discussion](https://github.com/Sriansh-raj/GitHub-Achievements/discussions/18).**
+
+### 28-07-2023
+- [Galaxy Brain](https://github.com/users/zoelesv/achievements/galaxy-brain) by @zoelesv
+
 ### 25-07-2023
 - [Galaxy Brain](https://github.com/V205Arduino?tab=achievements&achievement=galaxy-brain) by @V205Arduino
 
